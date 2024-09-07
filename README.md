@@ -19,7 +19,7 @@ The dataset used in this project contains information such as:
 - `Ratings`: User-provided ratings or purchase frequency
 - `ProductFeatures`: Information about products like category, price, etc.
 
-The dataset may come from an e-commerce platform's historical data or a public dataset such as the [Dataset]([https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews](https://drive.google.com/file/d/15f_G6TUJ7iF0jk8NMkOHHzNwLAoOGmRm/view?usp=drive_link)).
+The dataset may come from an e-commerce platform's historical data or a public dataset such as the [Amazon product reviews dataset]([https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews](https://drive.google.com/file/d/15f_G6TUJ7iF0jk8NMkOHHzNwLAoOGmRm/view?usp=drive_link)).
 
 ## Dependencies
 The project requires the following Python libraries:
