@@ -42,4 +42,4 @@ Hybrid Approach: Combines collaborative and content-based filtering to improve r
 Model Evaluation: Evaluate the performance of the recommendation system using metrics such as precision, recall, and Mean Squared Error (MSE).
 
 ## Contributors
-Nikhil - Developer and Data Scientist
+Nikhil Makam
