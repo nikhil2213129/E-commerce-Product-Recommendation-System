@@ -17,7 +17,7 @@ The dataset used in this project contains information such as:
 - `UserID`: Unique identifier for users
 - `ProductID`: Unique identifier for products
 - `Ratings`: User-provided ratings or purchase frequency
-- `ProductFeatures`: Information about products like category, price, etc.
+- `Timestamps`: Information about products like category, price, etc.
 
 The dataset may come from an e-commerce platform's historical data or a public dataset such as the
 https://drive.google.com/file/d/15f_G6TUJ7iF0jk8NMkOHHzNwLAoOGmRm/view?usp=drive_link
